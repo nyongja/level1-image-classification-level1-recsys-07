@@ -48,7 +48,7 @@ COVID-19의 확산으로 인해 공공 장소에서의 마스크 착용 여부�
 - 박병윤 : HandlingImbalance Problem/ Modeling /HyperParameter tuning
 - 김문정 :  EDA/ Modeling / data purification
 - 이동훈 : EDA / Data curation /  Data purification
-- 용자윤 : EDA / Modeling /  HyperParameter tuning
+- 용자윤 : EDA / Modeling /  HandlingImbalance Problem
 # 수행 절차 및 방법
 ![enter image description here](https://github.com/boostcampaitech3/level1-image-classification-level1-recsys-07/blob/main/assets/3.png)
 # 수행 결과
